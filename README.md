@@ -4,14 +4,14 @@ A modern, full-featured e-commerce application built with React, Redux Toolkit, 
 
 ## Features
 
-- ✅ User Authentication with JWT token storage
-- ✅ Product browsing with category filters
-- ✅ Pagination for products
-- ✅ Shopping cart functionality
-- ✅ Checkout page with cart management
-- ✅ Protected routes
-- ✅ Responsive design with Material-UI
-- ✅ Redux Saga for async operations
+- User Authentication with JWT token storage
+- Product browsing with category filters
+- Pagination for products
+- Shopping cart functionality
+- Checkout page with cart management
+- Protected routes
+- Responsive design with Material-UI
+- Redux Saga for async operations
 
 ## Tech Stack
 
